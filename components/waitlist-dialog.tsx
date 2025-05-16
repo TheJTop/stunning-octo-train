@@ -98,7 +98,7 @@ export function WaitlistDialog({
               <Check className="h-6 w-6 text-green-600" />
             </div>
             <h3 className="text-xl font-semibold">Joined Waitlist</h3>
-            <p className="text-muted-foreground">Thank you for joining! We'll notify you when we launch.</p>
+            <p className="text-muted-foreground">Thank you for joining! We willnotify you when we launch.</p>
           </div>
         )}
       </DialogContent>
